@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am dinarsanjaya on github.
+  * I am psyduckxnx (https://keybase.io/psyduckxnx) on keybase.
+  * I have a public key ASDxN0W_HJrSxyVv89pYJDbKf7E9Qp8qzA6G2PKyjztVfQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f13745bf1c9ad2c7256ff3da582436ca7fb13d429f2acc0e86d8f2b28f3b557d0a",
+      "host": "keybase.io",
+      "kid": "0120f13745bf1c9ad2c7256ff3da582436ca7fb13d429f2acc0e86d8f2b28f3b557d0a",
+      "uid": "bf376ae3878bc58220932dd53946ac19",
+      "username": "psyduckxnx"
+    },
+    "merkle_root": {
+      "ctime": 1668096119,
+      "hash": "6efe98a07107a1d40377a0d9619d7160513808cfc15183a8cffd804a3cde0cc2202dc6fd75d2626262d91d8dfdac22ee396aba1853e57a4a5625907437ad274d",
+      "hash_meta": "b8a27591c571a7215e000f018af0359583b9960f77389823c5019871d1688bd7",
+      "seqno": 23527586
+    },
+    "service": {
+      "entropy": "7UHKO5wjmSkN5awrk/JdVdte",
+      "name": "github",
+      "username": "dinarsanjaya"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1668096147,
+  "expire_in": 504576000,
+  "prev": "b90d8620ef39910e5e8b83cb60150f86580901591da28b661f079107afc7a5c7",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDxN0W_HJrSxyVv89pYJDbKf7E9Qp8qzA6G2PKyjztVfQo](https://keybase.io/psyduckxnx), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8TdFvxya0sclb/PaWCQ2yn+xPUKfKswOhtjyso87VX0Kp3BheWxvYWTESpcCBcQguQ2GIO85kQ5ei4PLYBUPhlgJAVkdootmHweRB6/HpcfEIOXu1atTPCWAGQMefl4VceHTddkdZERO2ZH72qkodVI3AgHCo3NpZ8RA8NfAmhgKN5Wj76HRCxHhO3TUpBe8FUFRUfgQ3qhz9gasrhnIGxh5zFWMm+YaBjYb5sxBAv5N+eBG3z9Pr2SMC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFa+4IpnbNzmJBwhHV/o58VzThOpTChN5qSvN4vTMTnKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/psyduckxnx
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id psyduckxnx
+```
